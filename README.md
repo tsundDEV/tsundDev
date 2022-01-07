@@ -8,11 +8,13 @@
 <br> 
 <h3>My Projects 📽️:</h3>
 <p align="center">I have many projects completed such as home monitoring systems to work from home solutions, I just haven't uploaded them to github as most use personal information🤷‍♂️ </p>
-<h3 align="center"> Current Projects 🚀</h3>
+<br>
+<br>
+<h1 align="center"> Current Projects 🚀</h1>
 <h3> WALDO 🎉</h3>
 <br>
 <br> 
-<h3 align="center"> Completed Projects 🎉</h3>
+<h1 align="center"> Completed Projects 🎉</h1>
 <h3> Home Lab with _k3s_, hyper-v and services for home assistant 🏠 </h3>
 <h3> Restaurant Service Front, Back and Cloud Infrastructure 🍖 </h3>
 <br>
